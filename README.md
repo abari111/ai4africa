@@ -4,10 +4,30 @@ This repository gathers proposals for solutions and ideas for the use of Artific
 
 Here, you will find proposals for AI applications that address the realities of the continent, organized into various themes including education, health, environment, agriculture, security and surveillance, culture, etc. You are welcome to contribute to this repository by submitting a pull request.
 
-- Education
-- Health
-- Environment
-- Agriculture
-- security and surveillance
-- Culture
-- etc
+# Introduction
+
+Introduction
+
+L’intelligence artificielle connait plus que jamais un interet general. Depuis l’avenement de ChatGPT le grand public s y interet. Les capacités que jusqu’alors reservé aux humains, sont simulé par l’IA. L’IA est entrain de depasser l’humain dans ces domaines. En réalité l’IA ne se limite pas qu’à la génération des textes. L’IA englobe un ensemble de techniques visant à mettre un système intelligent. Pour certaines ce système doit afficher des capacités cognitives comme celles d’un humain. Pour d’autres l’IA doit depasser l’humain sur toutes les tâches possibles. Plusieurs definitions de l’IA existent (citent quelques definitions):
+
+Pour le  grand public,  ChatGPT est le premier AI avec lequel ils étaient en contactant. Effet de surprise ou fasciné ou bien curieux d’un algorithme qui peut effectuer des tâches qui pour la plus tard necessite des années passées sur le banc de l’école ou de l’université. ChatGPT a en tous cas était accueilli par un grand nombre de personnes, ce qui lui a valu d’être la première application a atteindre le bar de 100 millions d’utilisateurs en un temps record:  moins de 3 mois. Pourtant, les algorithmes d’IA sont utilisées par tous, dès les années 2012, les smartphones sont équipées de camera avec des algorithmes de detection de personnes, d’ajustement etc. Ces tâches dont les ordinateurs ont des difficultés à faire et que les humains les effectuent facilement sans efforts n’impressionne pas vraiment les humains—les non spécialistes. En effet, On est enclin a être impressionner par ce dont on fourni l’effort pour faire, ce dont on pense être des tâches nécessitant de l’intelligence.
+
+[Intelligence artificielle dans le monde](docs/ia_world)
+
+[IA catalyseur de development en Afrique](ia_dev)
+
+[Education: IA une aubaine pour l’Afrique](ia_education)
+
+[IA et administration publique, urbanisme](ia_administration_urbanisme)
+
+[IA et santé](ia_health)
+
+[IA et agriculture](ia_agriculture)
+
+[AI et Security](ia_security)
+
+[Recherche et formation en IA en Afrique](ia_research)
+
+[Les défis technologiques de l’IA en Afrique](ia_challenges)
+
+[Regulations de l’IA en Afrique](ai_regulations)
