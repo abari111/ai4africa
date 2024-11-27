@@ -1,0 +1,52 @@
+# Agriculture & agroalimentaire
+
+- Cultures, Élevage, Transformation alimentaire, Distribution alimentaire
+- Detection de maladies de plantes
+- **Precision Farming**
+    - Real-time monitoring of crops and soil conditions
+    - Optimized water usage with IoT sensors
+    - Fertilizer and pesticide application automation
+- **Predictive Analytics**
+    - Crop yield prediction based on historical data
+    - Weather forecasting for optimized planting and harvesting times
+    - Soil health and nutrient analysis
+- **Crop and Soil Monitoring**
+    - Drones with AI for aerial imagery and analysis
+    - Machine vision for pest and disease detection
+    - Automated irrigation control based on soil moisture levels
+- **Smart Irrigation Systems**
+    - AI-powered irrigation scheduling
+    - Water conservation techniques with data analysis
+- **Autonomous Machinery**
+    - AI-driven tractors and harvesters
+    - Self-operating drones for seeding, spraying, and monitoring
+    - Automated weeding machines
+- **Supply Chain Optimization**
+    - AI-based logistics for efficient transportation of crops
+    - Demand forecasting for reducing food waste
+    - Optimizing storage and distribution with real-time data
+- **Livestock Monitoring and Management**
+    - AI for monitoring animal health and detecting diseases early
+    - Tracking and optimizing feed distribution
+    - Behavioral analysis to improve livestock well-being
+- **Crop Breeding**
+    - AI-driven genome analysis for better crop varieties
+    - Optimizing breeding practices for drought-resistant crops
+- **Pest and Disease Control**
+    - Early detection of pests and diseases through AI analysis of crop images
+    - AI-powered pest prediction models based on weather and environment
+- **Market Insights and Decision Support**
+    - AI-driven data analysis for pricing strategies
+    - Decision support systems for farmers based on market trends
+
+---
+
+- Data are collected and AI is used to determine optimal time for sowing and harvesting
+- Collect data on soil health and combine with data on weather conditions to recommend the application of a given pesticides or fertilizers.
+- AI is used to provide real-time crop insights to farmers. It help farmers to identify areas needing irrigation, fertilization or pesticide treatment.
+- Automation: drones AI powered, smart spraying,
+- Detecting leaks or damage to irrigation systems
+- Detecting disease and pests
+- Automatic  weeding & harvesting
+- Sorting harvested produce
+- Surveillance livestock, crop

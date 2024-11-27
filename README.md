@@ -6,7 +6,8 @@ Here, you will find proposals for AI applications that address the realities of 
 
 # Introduction
 
-[Intelligence artificielle dans le monde](docs/ia_world)
+<!-- [Intelligence artificielle dans le monde](docs/ia_world) -->
+[introdcuction](docs/intro.md)
 
 [IA catalyseur de development en Afrique](ia_dev)
 
